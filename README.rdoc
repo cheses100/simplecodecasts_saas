@@ -1,5 +1,8 @@
 == README
 
+Coder Manual Project Application
+Subcription-based web application
+http://codermanual.com
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
@@ -13,7 +16,7 @@ Things you may want to cover:
 
 * Database creation
 
-* Database initialization
+* Database initializationS
 
 * How to run the test suite
 
